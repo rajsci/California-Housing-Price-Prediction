@@ -1,5 +1,3 @@
-# ML_Projects
-
 California Housing Price Prediction
 DESCRIPTION
 
